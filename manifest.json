@@ -1,0 +1,17 @@
+{
+    "files": {
+        "DOC.MD": "a46cdbeed247cc388fa714e48472ba5178e669f7e35fcd799381ac1cabd9d0d3",
+        "index.js": "57a0b23c8d0517c2ad31c288d7c2969d66cf90d5931ddc54d4d8b6bb33f4d8b9",
+        "module.config.json": "c0a16dfca2dc00eb2f4c5670a98fcc163fd4f85c34b04fe825e6c3e79de88ca1",
+        "module.json": "1e4f4435d43c200177defbc175abb37d0a7ff32567507f38017e5acfdbc3e97f",
+        "passive_data/abnormality_data.json": "d2b4aab09677d0059fae5855546e98fba90d08edb2bc16dc81911ba0df3d11b2",
+        "passive_data/ep_data.json": "c853bc7b2672d94134243269b334983ba44a288cec248653796d69bf28535748",
+        "passive_data/noctenium_data.json": "f7cfe820e9ca2072a35a1beb56646e0cf103689067477b06e534c9e8ffb575c8",
+        "passive_data/passivity_data.json": "71d14e07391fdc146fbe7822d8a710497cf4a7959f1e27ebca634493f478d5e7",
+        "passive_data/polishing_data.json": "0c96e135535b1ee6bcc04407d81cf50552ce2eca23ebeeea31ffe5531776098e",
+        "settings.json": "63099b11e31f8332c2f009b22fbbf01dd30146cf845d5489820281c9c929c3fb",
+        "skill_data/skills_abnormals.js": "037460fe381086236482aeb6ab7b812155a3370c67aebae97e5665ac399fac8e",
+        "skill_data/skills_emulation.json": "a4f7cc86d88ed4fc0951522b65e5b803156e581b66c57bfd06633224275a69d1",
+        "skill_data/skills_upper.json": "ccd941ca7947665aa42246c9372baa561685bc7df5ec7ce206398633a97acb9a"
+    }
+}
